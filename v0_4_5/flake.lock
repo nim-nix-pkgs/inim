@@ -2228,11 +2228,11 @@
         "noise-v0_1_14": "noise-v0_1_14"
       },
       "locked": {
-        "lastModified": 1647070458,
-        "narHash": "sha256-QLJ/4xmDjo+syov6TxpttI6o9CKyca8Czo0z4g//fpM=",
+        "lastModified": 1647114453,
+        "narHash": "sha256-kdJtND8e0iOSTJxsE4TeOuQtFtHne6mUDJ4I142GGYg=",
         "owner": "nim-nix-pkgs",
         "repo": "noise",
-        "rev": "6c4fb38a9d268586f0e2fbac03a83f933670b805",
+        "rev": "2a2e168ffec7cbe9b4985b2171ab723db38e6c36",
         "type": "github"
       },
       "original": {
@@ -2255,13 +2255,20 @@
         "src-noise-master": "src-noise-master"
       },
       "locked": {
-        "narHash": "sha256-/kGNKEdnuz6XzefVwpthTUgmdyiqxo7BmoSEt0bbKT4=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647114453,
+        "narHash": "sha256-kdJtND8e0iOSTJxsE4TeOuQtFtHne6mUDJ4I142GGYg=",
+        "owner": "nim-nix-pkgs",
+        "repo": "noise",
+        "rev": "2a2e168ffec7cbe9b4985b2171ab723db38e6c36",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "noise",
+        "type": "github"
       }
     },
     "noise-v0_1_14": {
@@ -2277,13 +2284,20 @@
         "src-noise-v0_1_14": "src-noise-v0_1_14"
       },
       "locked": {
-        "narHash": "sha256-0wqxVqAJuDE9L6297H+SqRZm3cfQ0Yk+ZGWQvWA1VRE=",
-        "path": "./v0_1_14",
-        "type": "path"
+        "dir": "v0_1_14",
+        "lastModified": 1647114453,
+        "narHash": "sha256-kdJtND8e0iOSTJxsE4TeOuQtFtHne6mUDJ4I142GGYg=",
+        "owner": "nim-nix-pkgs",
+        "repo": "noise",
+        "rev": "2a2e168ffec7cbe9b4985b2171ab723db38e6c36",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_1_14",
-        "type": "path"
+        "dir": "v0_1_14",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "noise",
+        "type": "github"
       }
     },
     "root": {
