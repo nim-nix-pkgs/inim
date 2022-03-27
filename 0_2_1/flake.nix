@@ -11,6 +11,7 @@
   inputs.src-inim-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-inim-0_2_1.owner = "inim-repl";
   inputs.src-inim-0_2_1.repo  = "INim";
+  inputs.src-inim-0_2_1.dir   = "";
   inputs.src-inim-0_2_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

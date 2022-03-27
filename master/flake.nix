@@ -11,6 +11,7 @@
   inputs.src-inim-master.ref   = "refs/heads/master";
   inputs.src-inim-master.owner = "inim-repl";
   inputs.src-inim-master.repo  = "INim";
+  inputs.src-inim-master.dir   = "";
   inputs.src-inim-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
