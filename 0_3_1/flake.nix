@@ -11,7 +11,6 @@
   inputs.src-inim-0_3_1.ref   = "refs/tags/0.3.1";
   inputs.src-inim-0_3_1.owner = "inim-repl";
   inputs.src-inim-0_3_1.repo  = "INim";
-  inputs.src-inim-0_3_1.dir   = "";
   inputs.src-inim-0_3_1.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
